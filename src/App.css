@@ -1,0 +1,18 @@
+
+h1{
+  font-family: 'Bigelow Rules' !important;
+  font-size: 72px !important;
+  color: #0ccac4 !important;
+  text-align: center;
+}
+.title-div{
+  text-align: center;
+  width: 100%
+  ;
+}
+.wrap-monster-card-list{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-self: center;
+}
